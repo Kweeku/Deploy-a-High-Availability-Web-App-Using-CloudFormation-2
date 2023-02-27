@@ -1,0 +1,6 @@
+[  {    "ParameterKey": "InstanceType",    "ParameterValue": "t3.small"  },
+{    "ParameterKey": "MyIP",    "ParameterValue": "154.160.9.74/32" },
+  {    "ParameterKey": "AMI",    "ParameterValue": "ami-047a51fa27710816e"  },
+  {    "ParameterKey": "KeyName",    "ParameterValue": "VocareumKey2"  },  
+  {    "ParameterKey": "S3Bucket",    "ParameterValue": "my602167599342b2"  },  
+  {    "ParameterKey": "S3Key",    "ParameterValue": "app.zip"  }]
